@@ -1,1 +1,1 @@
-# ChitChatConnect
+# ChatterHub
